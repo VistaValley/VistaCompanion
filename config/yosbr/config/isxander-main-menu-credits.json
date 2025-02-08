@@ -1,0 +1,46 @@
+{
+  "main_menu": {
+    "bottom_left": [
+      {
+        "text": "Vista Companion (Modrinth)",
+        "color": "#1dbf6b",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://modrinth.com/modpack/vista-companion"
+        }
+      }
+    ],
+    "bottom_right": [
+      {
+        "text": "Vista Valley (Wiki)",
+        "color": "#e5a463",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://wiki.vistavalley.xyz"
+        }
+      }
+    ]
+  },
+  "pause_menu": {
+    "bottom_left": [
+      {
+        "text": "Vista Companion (Modrinth)",
+        "color": "#1dbf6b",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://modrinth.com/modpack/vista-companion"
+        }
+      }
+    ],
+    "bottom_right": [
+      {
+        "text": "Vista Valley (Wiki)",
+        "color": "#e5a463",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://wiki.vistavalley.xyz"
+        }
+      }
+    ]
+  }
+}

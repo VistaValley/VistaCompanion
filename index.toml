@@ -5,6 +5,10 @@ file = "config/yosbr/config/controlify.json"
 hash = "984bada9bfd1a1c9e2627d0c7d8ba322974505865fdd4ad3714720b447ebe6ec"
 
 [[files]]
+file = "config/yosbr/config/isxander-main-menu-credits.json"
+hash = "3587c74760b75235b6659a2f05cacd3c4f26a4bbfcd0c0217625d204096d00ec"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "120a619131bc542e717512a7a35ab13bbb3f555dea0637c238ab35a6ff8c0beb"
 

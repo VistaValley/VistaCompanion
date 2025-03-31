@@ -1,12 +1,12 @@
 name = "Vista Companion"
 author = "Houdeeny"
-version = "1.21.4-1.0.7"
+version = "1.21.4-1.0.8"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "677c9780976700d7243038ba98afacfbafad13ed51bd9079ef997c5051a7cbca"
+hash = "920cf5821dc253ae4129ee9b4319d04f1945f2cffb93df0b67e994bd47f43c27"
 
 [versions]
 fabric = "0.16.10"

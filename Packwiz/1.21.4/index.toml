@@ -28,7 +28,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "107b3bcce5980381e58fc55236f2b637e57c14c8d53d013bd3e9f06ad7837e53"
+hash = "e0145e3e408cd0aaab144b366e86baa0689ded740bef57ed7b5b7599142960d9"
 metafile = true
 
 [[files]]
@@ -53,7 +53,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "cbb8156afa51dc715bb7438e65da148afee8394f7faffb26f01e0604bc455a3b"
+hash = "853087309c5b08115038d1f349928cd95370926956ae7a293b810f2b2711e7f3"
 metafile = true
 
 [[files]]
@@ -68,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "6f401ef69f355048385146209db2c5eabb8173969f9bddb7955706efa036808f"
+hash = "d1a2a4ef509bb718243d16e2950b1289f286428c3067685f4ef40f4ec4f8a0a6"
 metafile = true
 
 [[files]]
@@ -83,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "c666d4a01300098976b31693779d4f6130e939a6275823f0e8995921401d65a8"
+hash = "a63069aac3fc618562c8f4fa4f76e0bd3625a90f53d1dc3ff4974862d54dde20"
 metafile = true
 
 [[files]]
@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "58bc826a0b2f0ba422144d35941dd912d349877225e121446180a14d7872040d"
+hash = "974a2f4fd6bff1195c326696fa9e246c3b6820ae0fefe96a011bef4e6912e43f"
 metafile = true
 
 [[files]]
@@ -183,12 +183,12 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "e023f507366fff29356852e367823dda21cb4d1d788b1778212ae394e42ea0cf"
+hash = "71961578135f5043c71d9e50efd68195fbbd53f2d00346d3a66e2eff83971b69"
 metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "bedeab81b949543d6e5ba34a496f63543cdcbc33982a44794fc14de48eec5b8b"
+hash = "af416ddf58beeb89452503266f7aedf39d4a1c20ccc36c9b40632c22a6b91b7b"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "f69fc83bd04cb36ae48e4c17c91d418cf4ce63ea1b357eb48f9a7116fa0b7257"
+hash = "343fd56672bf32c8b7718664a05afa0787b5adc9a683144b1b9291f558ece721"
 metafile = true
 
 [[files]]
@@ -213,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "396a1fd1cbf063f76fe0a1298cf7eda47f039853034cf5b651b7a662fc0acfd6"
+hash = "75b191c621b271734901f012011f22e0c8f5c21ee5de1bfa369ace9540fd1e76"
 metafile = true
 
 [[files]]
